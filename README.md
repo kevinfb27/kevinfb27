@@ -15,19 +15,20 @@
 <!--Intro start-->
 
 <p align="left">
-Estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend y una sólida base en programación y resolución de problemas. 
-Soy bilingüe (español e inglés), trabajo bien en equipo y mantengo una actitud de aprendizaje constante. 
-He participado en varias hackatones con buenos resultados, fortaleciendo mis habilidades técnicas y de colaboración. 
-Tengo experiencia en Java, Python y R; desarrollo backend con Spring y Spring Boot; manejo de bases de datos con SQL y MySQL; y conocimientos en desarrollo web con HTML y CSS. 
-Utilizo herramientas como Git, GitHub, IntelliJ IDEA, Figma y Power BI en proyectos académicos y personales, aplicando buenas prácticas de ingeniería de software.
+Estudiante de Ingeniería de Sistemas enfocado en desarrollo backend, con sólida base en programación y resolución de problemas. 
+Soy bilingüe (español e inglés), trabajo bien en equipo y busco aprender de forma constante. 
+He participado en hackatones con buenos resultados. 
+Tengo experiencia en Java, Python y R; backend con Spring y Spring Boot; bases de datos SQL/MySQL; y conocimientos en HTML y CSS. 
+Uso Git, GitHub, IntelliJ IDEA, Figma y Power BI aplicando buenas prácticas de ingeniería de software.
 
 ---
 
-Systems Engineering student focused on backend development, with a strong foundation in programming and problem solving. 
-I am bilingual (Spanish and English), work well in teams, and maintain a constant learning mindset. 
-I have participated in several hackathons with positive results, strengthening my technical and collaborative skills. 
-I have experience with Java, Python, and R; backend development using Spring and Spring Boot; database management with SQL and MySQL; and basic web development with HTML and CSS. 
-I use tools such as Git, GitHub, IntelliJ IDEA, Figma, and Power BI in academic and personal projects, applying software engineering best practices.
+Systems Engineering student focused on backend development, with a solid foundation in programming and problem solving. 
+I am bilingual (Spanish and English), work well in teams, and continuously seek to learn. 
+I have participated in hackathons with positive results. 
+Experienced in Java, Python, and R; backend development with Spring and Spring Boot; SQL/MySQL databases; and basic HTML/CSS. 
+I use Git, GitHub, IntelliJ IDEA, Figma, and Power BI while applying software engineering best practices.
+
 
 
 📫 Contacto: **kevinfbarrero@gmail.com*
