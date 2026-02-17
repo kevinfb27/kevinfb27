@@ -1,9 +1,5 @@
 <h1 align="center">Hola 👋 soy Kevin florez  </h1> 
 
-  <a href="mailto:kevinfbarrero@gmail.com" target="_blank" style="flex:1; text-align:center;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 <br>
 <h2>Sobre mi 😃</h2>
@@ -26,6 +22,10 @@ I use Git, GitHub, IntelliJ IDEA, Figma, and Power BI while applying software en
   <a href="https://www.linkedin.com/in/kevin-ivan-florez-10527k/" target="_blank" style="flex:1; text-align:center;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+    <a href="mailto:kevinfbarrero@gmail.com" target="_blank" style="flex:1; text-align:center;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <!--Intro end-->
   </p>
