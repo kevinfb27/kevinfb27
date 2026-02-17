@@ -2,10 +2,9 @@
 
 <p align="left">
 
-
 <a href="https://www.linkedin.com/in/kevin-ivan-florez-10527k/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:kevinfbarrero@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
@@ -36,7 +35,7 @@ I use tools such as Git, GitHub, IntelliJ IDEA, Figma, and Power BI in academic 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,sqlite,git,github,vscode,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,spring,mysql,sqlite,git,github,vscode,ai,ps&perline=12" />
   </a>
 </p>
 <br>
