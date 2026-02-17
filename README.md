@@ -35,7 +35,8 @@ I use tools such as Git, GitHub, IntelliJ IDEA, Figma, and Power BI in academic 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,spring,mysql,sqlite,git,github,vscode,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,spring,mysql,sqlite,git,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps&perline=12" />
   </a>
 </p>
 <br>
