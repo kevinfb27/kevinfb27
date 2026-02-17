@@ -3,7 +3,7 @@
 <p align="left">
 
 
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.linkedin.com/in/kevin-ivan-florez-10527k/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
@@ -36,7 +36,7 @@ I use tools such as Git, GitHub, IntelliJ IDEA, Figma, and Power BI in academic 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,sqlite,git,github,postman,intellij,vscode,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,sqlite,git,github,vscode,ai,ps&perline=12" />
   </a>
 </p>
 <br>
