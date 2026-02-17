@@ -1,11 +1,15 @@
 <h1 align="center">Hola 👋  soy Kevin florez ✨ </h1> 
 
-<p align="left">
+<p align="center" style="display:flex; justify-content:space-between; width:100%; max-width:700px; margin:auto;">
+  <a href="https://www.linkedin.com/in/kevin-ivan-florez-10527k/" target="_blank" style="flex:1; text-align:center;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="https://www.linkedin.com/in/kevin-ivan-florez-10527k/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="mailto:kevinfbarrero@gmail.com" target="_blank" style="flex:1; text-align:center;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<a href = "mailto:kevinfbarrero@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
@@ -35,8 +39,8 @@ I use tools such as Git, GitHub, IntelliJ IDEA, Figma, and Power BI in academic 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,spring,mysql,sqlite,git,github,vscode&perline=12" />
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,spring,mysql,sqlite,git,github,vscode,figma,ai,ps&perline=12" />
+
   </a>
 </p>
 <br>
