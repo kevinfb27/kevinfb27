@@ -51,5 +51,9 @@ I use Git, GitHub, IntelliJ IDEA, Figma, and Power BI while applying software en
 </p>
 
 <br>
+<p>
+<strong>Siempre estoy en búsqueda constante de aprendizaje y oportunidades para seguir creciendo profesionalmente.</strong>
+</p>
+
 <!-------------------------->
 
