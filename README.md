@@ -53,7 +53,8 @@ Bilingual (Spanish & English) with strong communication and teamwork skills.
   </a>
 </p>
 
-<p align="left" style="display:flex; gap:16px;">
-  <a href="[https://www.linkedin.com/in/kevin-ivan-florez-10527k/](https://portafolio-green-eight.vercel.app/)" target="_blank">
-    portfolio
+<p align="left">
+  <a href="https://portafolio-green-eight.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio Button">
   </a>
+</p>
