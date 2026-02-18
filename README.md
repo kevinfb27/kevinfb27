@@ -52,3 +52,8 @@ Bilingual (Spanish & English) with strong communication and teamwork skills.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+<p align="left" style="display:flex; gap:16px;">
+  <a href="[https://www.linkedin.com/in/kevin-ivan-florez-10527k/](https://portafolio-green-eight.vercel.app/)" target="_blank">
+    portfolio
+  </a>
