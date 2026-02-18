@@ -1,5 +1,5 @@
-<h1 align="center" style="font-weight: 900; font-size: 3em;">
-  Hola 👋 soy Kevin Flórez
+<h1 align="center">
+  🚀 HOLA 👋 SOY <strong>KEVIN FLÓREZ</strong> 🚀
 </h1>
 
 
