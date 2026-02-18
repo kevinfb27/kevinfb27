@@ -1,4 +1,7 @@
-<h1 align="center"><strong>Hola 👋 soy Kevin Florez</strong></h1>
+<h1 align="center" style="font-weight: 900; font-size: 3em;">
+  Hola 👋 soy Kevin Flórez
+</h1>
+
 
 <br>
 
@@ -51,9 +54,7 @@ I use Git, GitHub, IntelliJ IDEA, Figma, and Power BI while applying software en
 </p>
 
 <br>
-<p>
-<strong>Siempre estoy en búsqueda constante de aprendizaje y oportunidades para seguir creciendo profesionalmente.</strong>
-</p>
+
 
 <!-------------------------->
 
