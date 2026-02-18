@@ -1,8 +1,9 @@
-<h1 align="center">Hola 👋 soy Kevin florez  </h1> 
-
+<h1 align="center"><strong>Hola 👋 soy Kevin Florez</strong></h1>
 
 <br>
-<h2>Sobre mi 😃</h2>
+
+<h2><strong>Sobre mí 😃</strong></h2>
+
 <!--Intro start-->
 
 <p align="left">
@@ -37,11 +38,18 @@ I use Git, GitHub, IntelliJ IDEA, Figma, and Power BI while applying software en
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,spring,mysql,sqlite,git,github,vscode,figma,ai,ps&perline=12" />
-
-  </a>
+  <strong>Lenguajes:</strong><br>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
 </p>
+<p align="left">
+  <strong>Frameworks & DB:</strong><br>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,sqlite" />
+</p>
+<p align="left">
+  <strong>Herramientas & IDEs:</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps" />
+</p>
+
 <br>
 <!-------------------------->
 
