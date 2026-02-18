@@ -1,28 +1,20 @@
 <h1 align="center">
-  🚀 HOLA 👋 SOY <strong>KEVIN FLÓREZ</strong> 🚀
+   HELLO 👋 I’M <strong>KEVIN FLÓREZ</strong> 
 </h1>
-
 
 <br>
 
-<h2><strong>Sobre mí 😃</strong></h2>
+<h2><strong>About Me 😃</strong></h2>
 
 <!--Intro start-->
 
 <p align="left">
-Estudiante de Ingeniería de Sistemas enfocado en desarrollo backend, con sólida base en programación y resolución de problemas. 
-Soy bilingüe (español e inglés), trabajo bien en equipo y busco aprender de forma constante. 
-He participado en hackatones con buenos resultados. 
-Tengo experiencia en Java, Python y R; backend con Spring y Spring Boot; bases de datos SQL/MySQL; y conocimientos en HTML y CSS. 
-Uso Git, GitHub, IntelliJ IDEA, Figma y Power BI aplicando buenas prácticas de ingeniería de software.
-  
----
-
 Systems Engineering student focused on backend development, with a solid foundation in programming and problem solving. 
 I am bilingual (Spanish and English), work well in teams, and continuously seek to learn. 
 I have participated in hackathons with positive results. 
-Experienced in Java, Python, and R; backend development with Spring and Spring Boot; SQL/MySQL databases; and basic HTML/CSS. 
+I have experience with Java, Python, and R; backend development using Spring and Spring Boot; SQL/MySQL databases; and basic knowledge of HTML and CSS. 
 I use Git, GitHub, IntelliJ IDEA, Figma, and Power BI while applying software engineering best practices.
+</p>
 
 <p align="left" style="display:flex; justify-content:flex-start; gap:16px;">
   <a href="https://www.linkedin.com/in/kevin-ivan-florez-10527k/" target="_blank">
@@ -34,27 +26,25 @@ I use Git, GitHub, IntelliJ IDEA, Figma, and Power BI while applying software en
   </a>
 </p>
 
-
 <!--Intro end-->
-  </p>
+
 <br>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+
+<h2>Known Technologies 👨🏻‍💻</h2>
+
 <!--tech stack icons-->
+
 <p align="left">
-  <strong>Lenguajes:</strong><br>
+  <strong>Languages:</strong><br>
   <img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
 </p>
+
 <p align="left">
-  <strong>Frameworks & DB:</strong><br>
+  <strong>Frameworks & Databases:</strong><br>
   <img src="https://skillicons.dev/icons?i=spring,mysql,sqlite" />
 </p>
+
 <p align="left">
-  <strong>Herramientas & IDEs:</strong><br>
+  <strong>Tools & IDEs:</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps" />
 </p>
-
-<br>
-
-
-<!-------------------------->
-
