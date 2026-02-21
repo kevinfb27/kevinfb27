@@ -54,7 +54,7 @@ Bilingual (Spanish & English) with strong communication and teamwork skills.
 </p>
 
 <p align="left">
-  <a href="https://portafolio-green-eight.vercel.app/" target="_blank">
+  <a href="https://portafolio-green-eight.vercel.app/](https://portafolio-kevin-florez.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio Button">
   </a>
 </p>
